@@ -55,17 +55,21 @@ I'm a recently graduated Computer Science Master's Student and also Founding Eng
 
 ## 🚀 My Projects:
 
-### [3D Visualization of California's Road Network](https://github.com/AnishmMore/3D-Visualization-of-California-s-Road-Network)
+### [3D Visualization of California's Road Network](https://github.com/divyanshdeshmukh/3D-Visualization-of-California-s-Road-Network)
 Using Azure Data Factory and Azure Databricks to process and visualize 3D road data on Google Earth.
 
-### [Football Data Analytics Pipeline](https://github.com/AnishmMore/Football-Data-Analytics)
-Created a pipeline from data extraction to visualization with Apache Airflow and Tableau.
-
-### [Cloud Serverless Minimizing Cold Start Time](https://github.com/AnishmMore/Cloud-Serverless-Fast-Start-Minimizing-Cold-Start-Time)
+### [Cloud Serverless Minimizing Cold Start Time](https://github.com/divyanshdeshmukh/Cloud-Serverless-Fast-Start-Minimizing-Cold-Start-Time)
 Reduced startup time on GCP through image caching and Kubernetes optimizations.
 
-### [Patent Search Engine](https://github.com/AnishmMore/patent_search)
-Engineered a search platform with BERT and Elasticsearch for efficient patent exploration.
+### [Parallel K-NN Graph Construction for High-Dimensional Spatial Data](https://github.com/divyanshdeshmukh/KDtree)
+Developed a function in C++ using ParlayLib to construct KNN graphs for real-world datasets with millions of
+points, producing binary-formatted outputs for clustering and geospatial visualization.
+
+### [Social Media for Developers](https://github.com/divyanshdeshmukh/devconnector)
+Developed a social media networking site for developers using MERN stack to connect and share ideas.
+
+### [Feature-Selection-with-Nearest-Neighbour](https://github.com/divyanshdeshmukh/Feature-Selection-with-Nearest-Neighbour)
+In this project, we were tasked with implementing feature selection algorithms, specifically Forward Selection and Backward Elimination, to analyze a given dataset and identify the most significant features that contribute to accurate classification.
 
 ## Let's Connect
 ### Feel free to reach out to me on:
