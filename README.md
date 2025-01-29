@@ -32,6 +32,7 @@ I'm a recently graduated Computer Science Master's Student and also Founding Eng
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=Snowflake&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-FF3621?style=flat&logo=Azure-Databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
 
 ### Libraries and Tools:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
