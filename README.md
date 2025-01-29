@@ -55,6 +55,9 @@ I'm a recently graduated Computer Science Master's Student and also Founding Eng
 
 ## 🚀 My Projects:
 
+### [Decoding Market Movements: Big Data Insights from News and Social Media](https://github.com/divyanshdeshmukh/Decoding-Market-Movements-Big-Data-Insights-from-News-and-Social-Media)
+Decoding Market Movements is a big data project using Apache Spark and NLP to analyze financial news and stock trends. It employs LLMs for sentiment analysis, TF-IDF for keyword extraction, and Pearson correlation to assess market impact. Findings show sentiment influences stocks but is one of many factors. 
+
 ### [3D Visualization of California's Road Network](https://github.com/divyanshdeshmukh/3D-Visualization-of-California-s-Road-Network)
 Using Azure Data Factory and Azure Databricks to process and visualize 3D road data on Google Earth.
 
