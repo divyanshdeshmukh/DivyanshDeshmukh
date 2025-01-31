@@ -1,6 +1,6 @@
 ### Hello, I'm Divyansh Deshmukh - aka Div 👨‍💻
 
-I'm a recently graduated Computer Science Master's Student and also Founding Engineer of a YC Backed startup AlgoUniversity!
+I'm a recently graduated Computer Science Master's Student from UCR and also Founding Engineer of a YC Backed startup AlgoUniversity!
 
 🎓 Pursued Master's in Computer Science with a focus on Parallel Algorithms, Advanced Algorithms, Spatial Computing and Data Mining at UC Riverside.
 
