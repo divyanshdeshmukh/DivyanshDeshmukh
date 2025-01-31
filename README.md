@@ -12,8 +12,6 @@ I'm a recently graduated Computer Science Master's Student and also Founding Eng
 
 🎯 2024 Goals: Contribute to more open-source projects and master DSA.
 
-⚡ Fun fact: I'm intrigued by the intersection of development and operations, leading me to improve custonm GPT-3.5 Turbo efficiency in a recent internship.
-
 ## 🚀 Skills and Technologies:
 
 ### Programming Languages:
